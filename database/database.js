@@ -5,5 +5,5 @@ const connection = new Sequelize({
     dialectModule: require('sqlite3'),
     storage: './database/data.sqlite'
 })
-
+ 
 module.exports = connection;
