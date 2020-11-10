@@ -1,9 +1,6 @@
 {
   "name": "perguntas_e_respostas",
   "version": "1.0.0",
-  "engines": {
-    "node": "14.15.0"
-  },
   "description": "Pagina de perguntas e respostas",
   "main": "index.js",
   "scripts": {
